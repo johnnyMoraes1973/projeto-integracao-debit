@@ -117,10 +117,8 @@ POST	/validate-login	Valida o token recebido
 🚀 Executando o Servidor
 
 Inicie o servidor localmente:
+node src/server.js
 
-🚀 Executando o Servidor
-
-Inicie o servidor localmente:
 
 🤝 Contribuição
 
